@@ -140,7 +140,7 @@ lazy-object-proxy @ file:///opt/concourse/worker/volumes/live/a169db40-97bf-4f51
 libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
 llvmlite==0.38.0
 locket @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_81b4c56b-0395-495d-81c1-83208d36944d357hqdd0/croots/recipe/locket_1652903116052/work
-lunary==1.0.36
+lunary==1.1.4
 lxml @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1902c961-4bd2-4871-a3c5-70b7317a6521kpj7nz2o/croots/recipe/lxml_1657545138937/work
 lz4 @ file:///opt/concourse/worker/volumes/live/5cb15f71-8949-4447-4576-dc636f8e7723/volume/lz4_1619516482660/work
 Markdown @ file:///opt/concourse/worker/volumes/live/022ad249-0648-42f1-5668-a0ceb0c8ad95/volume/markdown_1614363814264/work
